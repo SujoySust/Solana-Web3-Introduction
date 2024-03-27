@@ -9,6 +9,9 @@
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.2"
   },
+  "scripts": {
+    "demo": "npx ts-node -r tsconfig-paths/register"
+  },
   "dependencies": {
     "@metaplex-foundation/js": "^0.20.1",
     "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
