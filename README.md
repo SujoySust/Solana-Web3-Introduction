@@ -21,12 +21,12 @@ variable to be the **_absolute path_** of your local testing wallet keypair JSON
 
 After setting up locally, I recommend exploring the code of the following files (in order):
 
-- [`1_simple_transaction.ts`](./scripts/1_simple_transaction.ts)
-- [`2_complex_transaction.ts`](./scripts/2_complex_transaction.ts)
-- [`3_create_token_with_metadata.ts`](./scripts/3_create_token_with_metadata.ts)
-- [`4_mint_tokens.ts`](./scripts/4_mint_tokens.ts)
-- [`5_update_metadata.ts`](./scripts/5_update_metadata.ts)
-- [`6_create_nfts.ts`](./scripts/6_create_nfts.ts)
+- 1_simple_transaction.ts
+- 2_complex_transaction.ts
+- 3_create_token_with_metadata.ts
+- 4_mint_tokens.ts
+- 5_update_metadata.ts
+- 6_create_nfts.ts
 
 After reviewing the code in each of these scripts, try running each in order.
 
