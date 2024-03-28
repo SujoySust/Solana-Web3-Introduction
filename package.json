@@ -4,17 +4,17 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.4.3",
     "eslint": "^8.35.0",
     "ts-node": "^10.9.1",
-    "tsconfig-paths": "^4.1.2"
+    "tsconfig-paths": "^4.1.2",
+    "typescript": "^5.4.3"
   },
   "scripts": {
     "demo": "npx ts-node -r tsconfig-paths/register"
   },
   "dependencies": {
-    "@metaplex-foundation/js": "^0.20.1",
-    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
+    "@metaplex-foundation/js": "^0.19.3",
+    "@metaplex-foundation/mpl-token-metadata": "^2.11.1",
     "@project-serum/anchor": "^0.26.0",
     "@solana/spl-token": "^0.4.3",
     "@solana/web3.js": "^1.91.2",
